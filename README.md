@@ -13,12 +13,23 @@ Due to the sensitive nature of conservation data, all seed data in the public re
 
 ## Past Porjects
 ### 🌱 GroWise
-Our final group project during the bootcamp of DevAcademy Aotearoa. This was completed in a team of 5 in just under 2 weeks part-time. Our group develeoped a NZ seasonal growing web based applciation called grow GroWise. 
+Our final group project during the bootcamp of DevAcademy Aotearoa. This was completed in a team of 5 in just under 2 weeks part-time. Our group develeoped a NZ seasonal growing web based applciation called grow [GroWise](https://github.com/angu-chen/groWise-web). 
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GroWise screenshot](img/GroWiseScreenShot.png)
+
+Growise allows the end user to choose a region and month and then outputs the plants to plant during that month. Users can save plants to their own garden to look up later. 
+
+### Responsibilities
+Along with completing full stack tickets, I was deeply invovled in the initial planning of the database (DB) structure. The DB is normalised.
+
+![GroWise DB](img/GroWiseDB.png)
+
+I created a website architecture flow to ensure that our team was aligned with how everything should work and it became the first step we referenced to when completing tickets. 
+![GroWise App Architecture](img/GroWiseFlowChart.png)
+
+### LoopedIn
+This was a fun group project during bootcamp at DecAcademy where we made a social media themed web site. LoopedIn was thought up as a place to connect to different social groups and stay "looped in".
+[LoopedIn Repo](https://github.com/angu-chen/loopedin)
+
+#### Stack
+[![My Skills](https://skillicons.dev/icons?i=js,ts,vite,react,express,html,css,)](https://skillicons.dev)
