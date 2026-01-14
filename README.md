@@ -12,7 +12,9 @@ I proposed and built a replacement full-stack application that preserves the ori
 Due to the sensitive nature of conservation data, all seed data in the public repository is fictional. Prior to real-world deployment, the project will be cloned into a private repository before introducing any sensitive information.
 
 ## Past Porjects
-### 🌱
+### 🌱 GroWise
+Our final group project during the bootcamp of DevAcademy Aotearoa. This was completed in a team of 5 in just under 2 weeks part-time. Our group develeoped a NZ seasonal growing web based applciation called grow GroWise. 
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
